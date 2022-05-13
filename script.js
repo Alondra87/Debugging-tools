@@ -9,7 +9,7 @@ const loadList = () => {
  
     for (let i = 0; i < arr.length; i += 1){
 
-        if (i == 0) { rond = 'counter'; } else {
+        if (i !== 0) { rond = 'counter'; } else {
             rond = 'canopy';
           }
 
