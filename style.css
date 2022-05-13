@@ -1,0 +1,24 @@
+.canopy {
+    padding-right: 20px;
+    float: left;
+    font-family: Poppins, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    color: #344563;
+    list-style: none;
+  }
+
+  .counter {
+    padding-right: 25px;
+    float: left;
+    text-align: left;
+    font-family: Poppins, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    color: #7a869a;
+    list-style: disc;
+  }
